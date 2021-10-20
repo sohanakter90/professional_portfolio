@@ -53,7 +53,7 @@ h1{
 .experience-area-part h3{
     color: gold;
 }
-.experience-area-part div{
+.experience-area-part {
     box-shadow: 5px 7px 40px gray;
     height: 80%;
     margin: 5%;
